@@ -19,3 +19,4 @@
 * Jellyfin https://github.com/jellyfin/jellyfin
   - Web: http://minipc:8096/web/index.html#!/home.html
   - 插件：https://github.com/cxfksword/jellyfin-plugin-metashark 
+* Tailscale
