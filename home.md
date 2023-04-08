@@ -12,7 +12,7 @@
 
 * Transmission
 * Docker
-- TeslaMate
-- Aliyun WebDav
+  - TeslaMate
+  - Aliyun WebDav
 * Jellyfin https://github.com/jellyfin/jellyfin
 * 
