@@ -9,5 +9,8 @@
 运行功率10W，非常适合常年开机在上面跑一些服务。后续准备把跑在树莓派3上的服务迁移过来。
 
 * Transmission
-* TeslaMate
-* Aliyun WebDav
+* Docker
+** TeslaMate
+** Aliyun WebDav
+* Jellyfin https://github.com/jellyfin/jellyfin
+* 
