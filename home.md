@@ -10,9 +10,12 @@
 
 # 服务 & 软件
 
-* Transmission
+* Transmission https://github.com/transmission/transmission/releases
+  - http://minipc:9091/transmission/web
+  - 
 * Docker
   - TeslaMate
   - Aliyun WebDav
 * Jellyfin https://github.com/jellyfin/jellyfin
-* 
+  - http://minipc:8096/web/index.html#!/home.html
+  - 插件：https://github.com/cxfksword/jellyfin-plugin-metashark 
