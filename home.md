@@ -12,6 +12,7 @@
 
 * Transmission https://github.com/transmission/transmission/releases
   - Demon 配置：C:\Windows\ServiceProfiles\LocalService\AppData\Local\transmission-daemon
+  - \\\\wdmycloud\\transmission
   - Web: http://minipc:9091/transmission/web
 * Docker
   - TeslaMate
